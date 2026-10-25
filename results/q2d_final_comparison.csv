@@ -1,0 +1,4 @@
+model,clean_accuracy,masked_accuracy,clean_confidence,masked_confidence,accuracy_drop_pp
+Single Tree,0.5375,0.3,0.98125,1.0,23.75
+Bagging,0.85,0.5125,0.38050000000000006,0.2625,33.75
+Boosting,0.5125,0.425,0.11471748749369715,0.11763194973969607,8.749999999999996
